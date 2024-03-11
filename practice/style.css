@@ -1,0 +1,30 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    cursor: alias;
+    background-image: url(images/pexels-pixabay-459335.jpg);
+    background-size: cover;
+}
+
+p{
+    font-size: 3em;
+    text-align: right;
+    border: 3px solid skyblue;
+    box-shadow: 3px 3px 5px yellowgreen;
+    text-transform: capitalize;
+    padding-right: 250px;
+
+}
+
+p:hover{
+    font-size: 4em;
+}
+
+iframe{
+    width: 400px;
+    height: 300px;
+    padding-left: 700px;
+    padding-top: 50px;
+    
+}
